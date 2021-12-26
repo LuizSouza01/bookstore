@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 1823705b10b327124539b771586db9d7133e9300 LuizSouza01 <luizhenri1991@gmail.com> 1640357205 -0300	commit (initial): initial commit
+1823705b10b327124539b771586db9d7133e9300 a0a73ffb47ce1b339ce8d5f4ef3d9602be1b1db3 LuizSouza01 <luizhenri1991@gmail.com> 1640381262 -0300	commit: Angular Material Instalado
+a0a73ffb47ce1b339ce8d5f4ef3d9602be1b1db3 63bcd7af576b1532253d0e460426272b0733ec92 LuizSouza01 <luizhenri1991@gmail.com> 1640445097 -0300	commit: categoria-read implementado
+63bcd7af576b1532253d0e460426272b0733ec92 ab2bf2c9081fd5e06808daf450c63427f7d49a38 LuizSouza01 <luizhenri1991@gmail.com> 1640446294 -0300	commit: Ajustes no componente read
+ab2bf2c9081fd5e06808daf450c63427f7d49a38 e84ecd43e5f7d9848260b818c465b673e817e52d LuizSouza01 <luizhenri1991@gmail.com> 1640467446 -0300	commit: Metodo Create implementado para Categoria
+e84ecd43e5f7d9848260b818c465b673e817e52d 079be19716491dd77c746c32e8e6fc45018b859d LuizSouza01 <luizhenri1991@gmail.com> 1640521562 -0300	commit: Metodo DELETE implmentado
+079be19716491dd77c746c32e8e6fc45018b859d db5382acc8d8b71198647d1a75c153e8cd9fc24b LuizSouza01 <luizhenri1991@gmail.com> 1640524474 -0300	commit: Leitura de todos os livros por Categoria implementado
+db5382acc8d8b71198647d1a75c153e8cd9fc24b dc63896741ee126fed4cb380fcb597f6834e4610 LuizSouza01 <luizhenri1991@gmail.com> 1640530532 -0300	commit: Componente UPDATE implementado
+dc63896741ee126fed4cb380fcb597f6834e4610 4fc37062a661c8ed5979c6a3d2a38b782b259865 LuizSouza01 <luizhenri1991@gmail.com> 1640546837 -0300	commit: Componente READ implementado
